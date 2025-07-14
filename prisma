@@ -1,0 +1,6 @@
+Latihan_UAS_PWL_Prisma/
+├── prisma/
+│   └── schema.prisma
+├── .env
+├── index.js
+└── package.json
